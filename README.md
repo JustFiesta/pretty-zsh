@@ -5,7 +5,7 @@ Basic .zshrc configuration with fuzzy history search
 * [zsh](https://zsh.sourceforge.io/)
 * [oh-my-zsh](https://ohmyz.sh/)
 * [zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
-* sqlite3 - This is a histdb dependency used for fuzzy history search
+* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh)
 * git
 
 ## How-to
