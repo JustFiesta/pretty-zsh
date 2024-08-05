@@ -11,4 +11,6 @@ Basic .zshrc configuration with fuzzy history search
 ## How-to
 1. Install dependencies listed above.
 2. Clone this repository
-3. Run setup script.
+3. *Run setup script.
+
+* - not nessesarry if oen wants manual installation
