@@ -10,5 +10,5 @@ Basic .zshrc configuration with fuzzy history search
 
 ## How-to
 1. Install dependencies listed above.
-2. Copy .zshrc file from this repo to ~/.zshrc
+2. Clone this repository
 3. Run setup script.
