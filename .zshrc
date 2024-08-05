@@ -79,7 +79,7 @@ ZSH_THEME="robbyrussell"
       python
       pip                                                                     
       zsh-autosuggestions
-      zsh-histdb
+      zsh-syntax-highlighting   
 )
 
 source $ZSH/oh-my-zsh.sh
