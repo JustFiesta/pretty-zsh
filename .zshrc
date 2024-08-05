@@ -73,13 +73,14 @@ ZSH_THEME="robbyrussell"
 plugins=(
 	git
 	zsh-autosuggestions
+	zsh-histdb
 )
 
 source $ZSH/oh-my-zsh.sh
 
-source $HOME/.oh-my-zsh/custom/plugins/zsh-histdb/sqlite-history.zsh
-autoload -Uz add-zsh-hook
-add-zsh-hook precmd histdb-update-outcome
+#source $HOME/.oh-my-zsh/custom/plugins/zsh-histdb/sqlite-history.zsh
+#autoload -Uz add-zsh-hook
+#add-zsh-hook precmd histdb-update-outcome
 
 # User configuration
 
